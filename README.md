@@ -46,12 +46,14 @@
 
 
 ![قبل ويب](WebBefore.jpg)
+
 ![قبل بيانات](DbBefore.jpg)
 
 ### 2. إضافة مستخدم جديد
 
 
 ![بعد بيانات](WebAfter.jpg)
+
 ![بعد بيانات](DbAfter.jpg)
 
 
